@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cloudw233.github.io</id>
+    <title>water_clouds&apos;s Blog</title>
+    <updated>2021-07-02T13:47:32.896Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cloudw233.github.io"/>
+    <link rel="self" href="https://cloudw233.github.io/atom.xml"/>
+    <subtitle>迈恩克拉夫特yyds</subtitle>
+    <logo>https://cloudw233.github.io/images/avatar.png</logo>
+    <icon>https://cloudw233.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, water_clouds&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[my blog]]></title>
+        <id>https://cloudw233.github.io/my-blog/</id>
+        <link href="https://cloudw233.github.io/my-blog/">
+        </link>
+        <updated>2021-07-02T13:46:33.000Z</updated>
+        <content type="html"><![CDATA[<p>这一天，它来了</p>
+]]></content>
+    </entry>
+</feed>
