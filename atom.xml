@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cloudw233.codeberg.page</id>
+    <id>https://cloudw233.github.io</id>
     <title>water_clouds&apos;s Blog</title>
-    <updated>2021-07-04T01:52:09.353Z</updated>
+    <updated>2021-07-04T08:31:25.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cloudw233.codeberg.page"/>
-    <link rel="self" href="https://cloudw233.codeberg.page/atom.xml"/>
+    <link rel="alternate" href="https://cloudw233.github.io"/>
+    <link rel="self" href="https://cloudw233.github.io/atom.xml"/>
     <subtitle>&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=671865490&amp;bvid=BV1uU4y1s7VA&amp;cid=301815775&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;</subtitle>
-    <logo>https://cloudw233.codeberg.page/images/avatar.png</logo>
-    <icon>https://cloudw233.codeberg.page/favicon.ico</icon>
+    <logo>https://cloudw233.github.io/images/avatar.png</logo>
+    <icon>https://cloudw233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, water_clouds&apos;s Blog</rights>
     <entry>
+        <title type="html"><![CDATA[超NB的PCL2出正式版啦~\(≧▽≦)/~]]></title>
+        <id>https://cloudw233.github.io/chao-nb-de-pcl2-chu-zheng-shi-ban-la-~v~/</id>
+        <link href="https://cloudw233.github.io/chao-nb-de-pcl2-chu-zheng-shi-ban-la-~v~/">
+        </link>
+        <updated>2021-07-04T08:27:01.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://cloudw233.github.io/post-images/1625387248143.png" alt="" loading="lazy"><br>
+下载链接：https://afdian.net/p/0164034c016c11ebafcb52540025c377</p>
+<p>仅支持 Windows 7、Windows 10，且需要 .net Framework 4.5 环境（Win10 一般自带）<br>
+转载自：https://www.mcbbs.net/thread-719579-1-1.html</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[{LTW}龙猫的服太好玩了！！！]]></title>
-        <id>https://cloudw233.codeberg.page/ltwlong-mao-de-fu-tai-hao-wan-liao/</id>
-        <link href="https://cloudw233.codeberg.page/ltwlong-mao-de-fu-tai-hao-wan-liao/">
+        <id>https://cloudw233.github.io/ltwlong-mao-de-fu-tai-hao-wan-liao/</id>
+        <link href="https://cloudw233.github.io/ltwlong-mao-de-fu-tai-hao-wan-liao/">
         </link>
         <updated>2021-07-03T03:09:57.000Z</updated>
         <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=671865490&bvid=BV1uU4y1s7VA&cid=301815775&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -21,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[my blog]]></title>
-        <id>https://cloudw233.codeberg.page/my-blog/</id>
-        <link href="https://cloudw233.codeberg.page/my-blog/">
+        <id>https://cloudw233.github.io/my-blog/</id>
+        <link href="https://cloudw233.github.io/my-blog/">
         </link>
         <updated>2021-07-02T13:46:33.000Z</updated>
         <content type="html"><![CDATA[<p>这一天，它来了</p>
