@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cloudw233.github.io</id>
+    <id>https://cloudw233.codeberg.page</id>
     <title>water_clouds&apos;s Blog</title>
-    <updated>2021-07-03T05:29:49.052Z</updated>
+    <updated>2021-07-04T01:52:09.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cloudw233.github.io"/>
-    <link rel="self" href="https://cloudw233.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cloudw233.codeberg.page"/>
+    <link rel="self" href="https://cloudw233.codeberg.page/atom.xml"/>
     <subtitle>&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=671865490&amp;bvid=BV1uU4y1s7VA&amp;cid=301815775&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;</subtitle>
-    <logo>https://cloudw233.github.io/images/avatar.png</logo>
-    <icon>https://cloudw233.github.io/favicon.ico</icon>
+    <logo>https://cloudw233.codeberg.page/images/avatar.png</logo>
+    <icon>https://cloudw233.codeberg.page/favicon.ico</icon>
     <rights>All rights reserved 2021, water_clouds&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[{LTW}龙猫的服太好玩了！！！]]></title>
-        <id>https://cloudw233.github.io/ltwlong-mao-de-fu-tai-hao-wan-liao/</id>
-        <link href="https://cloudw233.github.io/ltwlong-mao-de-fu-tai-hao-wan-liao/">
+        <id>https://cloudw233.codeberg.page/ltwlong-mao-de-fu-tai-hao-wan-liao/</id>
+        <link href="https://cloudw233.codeberg.page/ltwlong-mao-de-fu-tai-hao-wan-liao/">
         </link>
         <updated>2021-07-03T03:09:57.000Z</updated>
         <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=671865490&bvid=BV1uU4y1s7VA&cid=301815775&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[my blog]]></title>
-        <id>https://cloudw233.github.io/my-blog/</id>
-        <link href="https://cloudw233.github.io/my-blog/">
+        <id>https://cloudw233.codeberg.page/my-blog/</id>
+        <link href="https://cloudw233.codeberg.page/my-blog/">
         </link>
         <updated>2021-07-02T13:46:33.000Z</updated>
         <content type="html"><![CDATA[<p>这一天，它来了</p>
