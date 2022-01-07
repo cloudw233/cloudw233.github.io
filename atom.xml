@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://cloudw233-github-io.vercel.app/</id>
+    <id>https://https://cloudw233.github.io</id>
     <title>Gridea</title>
-    <updated>2022-01-07T16:24:42.684Z</updated>
+    <updated>2022-01-07T16:27:33.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://cloudw233-github-io.vercel.app/"/>
-    <link rel="self" href="https://https://cloudw233-github-io.vercel.app/atom.xml"/>
+    <link rel="alternate" href="https://https://cloudw233.github.io"/>
+    <link rel="self" href="https://https://cloudw233.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://cloudw233-github-io.vercel.app/images/avatar.png</logo>
-    <icon>https://https://cloudw233-github-io.vercel.app/favicon.ico</icon>
+    <logo>https://https://cloudw233.github.io/images/avatar.png</logo>
+    <icon>https://https://cloudw233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[如何与你的同学玩MC]]></title>
-        <id>https://https://cloudw233-github-io.vercel.app/post/ru-he-yu-ni-de-tong-xue-wan-mc/</id>
-        <link href="https://https://cloudw233-github-io.vercel.app/post/ru-he-yu-ni-de-tong-xue-wan-mc/">
+        <id>https://https://cloudw233.github.io/post/ru-he-yu-ni-de-tong-xue-wan-mc/</id>
+        <link href="https://https://cloudw233.github.io/post/ru-he-yu-ni-de-tong-xue-wan-mc/">
         </link>
         <updated>2022-01-07T16:23:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="与你同学快乐游玩mc">与你同学快乐游玩MC</h1>
@@ -115,8 +115,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://cloudw233-github-io.vercel.app/post/hello-gridea/</id>
-        <link href="https://https://cloudw233-github-io.vercel.app/post/hello-gridea/">
+        <id>https://https://cloudw233.github.io/post/hello-gridea/</id>
+        <link href="https://https://cloudw233.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
