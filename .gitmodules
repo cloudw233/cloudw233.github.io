@@ -1,0 +1,3 @@
+[submodule "themes/argon"]
+	path = themes/argon
+	url = https://github.com/cloudw233/argon.git
