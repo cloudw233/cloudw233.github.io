@@ -127,7 +127,7 @@ giscus: # https://giscus.app/zh-CN
   lang: 'zh-CN'
 waline: # https://waline.js.org/guide/get-started.html
   enable: true # 是否启用 Waline 评论系统
-  server_url: 'https://commit.cloudw233.tk' 
+  server_url: 'cloudw233-commit.up.railway.app' 
 
 # 分析
 # 百度统计
