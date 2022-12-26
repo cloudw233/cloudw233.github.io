@@ -27,7 +27,7 @@ banner_background_hide_shapes: false # 是否隐藏 Banner 背景圆形
 banner_background_color_type: 'shape-primary' # Banner 渐变样式，Banner 背景图会覆盖该选项，可选值: shape-primary, shape-default, shape-dark, bg-gradient-success, bg-gradient-info, bg-gradient-warning, bg-gradient-danger
 
 # 侧栏
-sidebar_banner_title: '' # 侧栏标题，留空则跟随博客标题
+sidebar_banner_title: '好耶！' # 侧栏标题，留空则跟随博客标题
 sidebar_banner_subtitle: '--hitokoto--' # 侧栏子标题，留空则不显示，设为 --hitokoto-- 调用一言
 sidebar_announcement: '' # 侧栏公告，留空则不显示
 leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套
@@ -40,7 +40,7 @@ sidebar_auther_image: '/assets/img/auther.jpg' # 侧栏作者头像
 sidebar_auther_name: '' # 侧栏作者名，留空则跟随博客名
 leftbar_author_links: # 侧栏作者链接列表
   Github: https://github.com/cloudw233
-  Email: email://haoye_qwq@3qqcsr.onmicrosoft.com
+  Email: mailto:haoye_qwq@3qqcsr.onmicrosoft.com
 leftbar_friend_links: # 侧栏友链列表
   大蛋糕的博客: https://bigcake.cakemc.top
 show_headindex_number: true # 侧栏文章目录是否显示章节编号
@@ -56,7 +56,7 @@ additional_content_after_post: '' # 文末追加信息，支持 HTML，留空则
 article_header_style: default # 文章内小标题样式，可选值: default, 1, 2
 
 # 背景
-page_background_url: '/Cirno.png' # 页面背景地址，留空则不设页面背景
+page_background_url: 'https://cdn.ravi.cool/gh/cloudw233/cloudw233.github.io@master/Cirno.png' # 页面背景地址，留空则不设页面背景
 page_background_dark_url: '' # 夜间模式页面背景地址，留空则跟随日间模式
 page_background_opacity: 1 # 页面背景不透明度，0 ~ 1的小数
 transparent_banner: true # Banner 透明化，如果设置了背景以后推荐开启该选项
