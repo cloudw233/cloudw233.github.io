@@ -1,8 +1,7 @@
 name: Add article
 
 on:
-  push:
-    branches: [hexo] # only push events on source branch trigger deployment
+  workflow_dispatch:
 
 jobs:
   hexo-deployment:
