@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  hexo-deployment:
+  add-article:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Shanghai
@@ -35,6 +35,7 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git checkout hexo
+        git pull --set-upstream origin hexo
         git add .
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
