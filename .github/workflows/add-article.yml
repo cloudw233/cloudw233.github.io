@@ -39,4 +39,4 @@ jobs:
         git config --global user.name $GIT_NAME
         git config --global user.email $GIT_EMAIL
         git commit -m "Add Article"
-        git push "https://$GH_TOKEN@$REPO" -u origin hexo
+        git push --quiet "https://$GH_TOKEN@$REPO" -u origin hexo
